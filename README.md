@@ -1,31 +1,24 @@
-<div align="center">
-
 # VELMONT — Case File #417
 
-### *A harbor. A body. A lie.*
+### *A harbor. A body. A lie.* || An interactive browser-based detective game by **PicoBird Studios**.
 
-An interactive browser-based detective game by **PicoBird Studios**.
+<div align="center">
 
+<img src="media/velmont-gameplay.gif" alt="VELMONT gameplay" width="100%">
+
+</div>
+
+<div align="center">
+  
 <br>
 
 [![Play on itch.io](https://img.shields.io/badge/PLAY_ON_ITCH.IO-C6A76A?style=for-the-badge&logo=itchdotio&logoColor=111111)](https://picobird-studios.itch.io/velmont)
 
-<br>
 
 ![Status](https://img.shields.io/badge/STATUS-RELEASED-26231F?style=flat-square)
 ![Platform](https://img.shields.io/badge/PLATFORM-BROWSER-26231F?style=flat-square)
 ![Languages](https://img.shields.io/badge/LANGUAGES-TR%20%7C%20EN-26231F?style=flat-square)
 ![Source](https://img.shields.io/badge/SOURCE_CODE-PRIVATE-26231F?style=flat-square)
-
-</div>
-
----
-
-## Gameplay
-
-<div align="center">
-
-<img src="media/velmont-gameplay.gif" alt="VELMONT gameplay" width="100%">
 
 </div>
 
@@ -95,11 +88,20 @@ For the playable release, visit the official itch.io page:
 
 ---
 
-## PicoBird Studios
+## 🪶 PicoBird Studios
 
 VELMONT — Case File #417 was created by **Fatma Susam** under **PicoBird Studios**.
 
 Feedback, bug reports, and thoughts about the investigation are always welcome.
+
+---
+
+## 📬 Contact 
+
+Fatma Susam 
+
+[![GitHub](https://img.shields.io/badge/GitHub-fatmaSsm-181717?style=for-the-badge&logo=github)](https://github.com/fatmaSsm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fatma-susam/)
 
 ---
 
@@ -116,3 +118,4 @@ Feedback, bug reports, and thoughts about the investigation are always welcome.
 © 2026 PicoBird Studios. All rights reserved.
 
 </div>
+
